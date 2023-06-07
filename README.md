@@ -107,10 +107,12 @@ DOWN COUNTER:
 
 ### TRUTH TABLE 
 
-UP COUNTER:
+UP COUNTER: 
+
 ![image](https://github.com/kaviya2839/Exp-7-Synchornous-counters-/assets/120553351/6d025e39-4c91-4f48-b61e-cba0f981cd5a)
 
 DOWN COUNTER:
+
 ![image](https://github.com/kaviya2839/Exp-7-Synchornous-counters-/assets/120553351/9308bf69-7e76-4c84-84f9-a64d3a18e3e1)
 
 ### RESULTS 
